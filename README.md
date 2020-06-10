@@ -1,3 +1,3 @@
-# tf2mods
+# [Sniper scope removal](https://gamebanana.com/guis/35606) - gamebanana
 
-`branch`
+[video](https://www.youtube.com/watch?v=PCb1zalbHHw)
